@@ -1,7 +1,7 @@
 # ReactCalculator
 MacOS calculator developed in React.
 
-![](ReactCalculator/calculator/public/calculator.png)
+![](/ReactCalculator/calculator/public/calculator.png)
 
 
 ## Install
